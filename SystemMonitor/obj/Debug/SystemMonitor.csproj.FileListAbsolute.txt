@@ -1,0 +1,18 @@
+C:\Users\Jevgenijs\Desktop\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.dll
+C:\Users\Jevgenijs\Desktop\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\Jevgenijs\Desktop\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csprojAssemblyReference.cache
+C:\Users\Jevgenijs\Desktop\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Jevgenijs\Desktop\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.dll
+C:\Users\Jevgenijs\Desktop\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+C:\Users\Jevgenijs\Desktop\Software Quality Eng\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.dll
+C:\Users\Jevgenijs\Desktop\Software Quality Eng\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\Jevgenijs\Desktop\Software Quality Eng\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csprojAssemblyReference.cache
+C:\Users\Jevgenijs\Desktop\Software Quality Eng\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Jevgenijs\Desktop\Software Quality Eng\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.dll
+C:\Users\Jevgenijs\Desktop\Software Quality Eng\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+C:\Users\35385\OneDrive\Desktop\SQuality\Current Project\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.dll
+C:\Users\35385\OneDrive\Desktop\SQuality\Current Project\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+C:\Users\35385\OneDrive\Desktop\SQuality\Current Project\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csprojAssemblyReference.cache
+C:\Users\35385\OneDrive\Desktop\SQuality\Current Project\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.CoreCompileInputs.cache
+C:\Users\35385\OneDrive\Desktop\SQuality\Current Project\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.dll
+C:\Users\35385\OneDrive\Desktop\SQuality\Current Project\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
